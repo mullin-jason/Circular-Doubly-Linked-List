@@ -2,7 +2,7 @@
 ### Jason Mullin
 
 ## what's in the code
-1: two classes (node and list) defined in cdll.h and implemented in cdll.cpp <br>
+1: two classes (node and cdll) defined in cdll.h and implemented in cdll.cpp <br>
 2: command line interface (located in main.cpp) for showing functionality <br>
 
 ## functions that come with the program
