@@ -1,11 +1,11 @@
 # Circular Doubly Linked List 
 ### Jason Mullin
 
-## what we want to code
-1: define node and struct class and behavior <br>
-2: create command line interface to show off behavior <br>
+## what's in the code
+1: two classes (node and list) defined in cdll.h and implemented in cdll.cpp <br>
+2: command line interface (located in main.cpp) for showing functionality <br>
 
-## behaviour we need to code
+## functions that come with the program
 1: append <br> 
 2: prepend <br>
 3: remove last item <br>
@@ -16,4 +16,4 @@
 8: print size <br>
 9: print first item in list <br>
 
-## funtionality and analysis
+## how to interact with the program
