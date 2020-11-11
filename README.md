@@ -24,12 +24,12 @@ execute<br>
 **./main**<br>
 
 ## commands
-**>** : next
-**<** : previous
-**A** : append
-**P** : prepend
-**I** : items in list
-**S** : print size
-**R** : remove last item
-**C** : print current
-**Q** : quit
+**>** : next <br>
+**<** : previous <br> 
+**A** : append <br>
+**P** : prepend <br> 
+**I** : items in list <br> 
+**S** : print size <br> 
+**R** : remove last item <br> 
+**C** : print current <br> 
+**Q** : quit <br>
