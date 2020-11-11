@@ -28,7 +28,7 @@ execute<br>
 **<** : previous <br> 
 **A** : append <br>
 **P** : prepend <br> 
-**I** : items in list <br> 
+**I** : all items in list <br> 
 **S** : print size <br> 
 **R** : remove last item <br> 
 **C** : print current <br> 
