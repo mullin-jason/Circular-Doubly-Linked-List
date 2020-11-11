@@ -18,9 +18,18 @@
 
 ## compiling and running 
 
-In the circular directory compile with: <br>
+In /circular type: <br>
 **g++ -std=c++11 cdll.cpp main.cpp -o main**<br>
-and exuecute with<br> 
+execute<br> 
 **./main**<br>
 
 ## commands
+**>** : next
+**<** : previous
+**A** : append
+**P** : prepend
+**I** : items in list
+**S** : print size
+**R** : remove last item
+**C** : print current
+**Q** : quit
