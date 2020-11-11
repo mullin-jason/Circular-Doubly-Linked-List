@@ -19,8 +19,8 @@
 ## compiling and running 
 
 In the circular directory compile with: <br>
-g++ -std=c++11 cdll.cpp main.cpp -o main <br>
+**g++ -std=c++11 cdll.cpp main.cpp -o main**<br>
 and exuecute with<br> 
-./main <br>
+**./main**<br>
 
 ## commands
